@@ -1,0 +1,16 @@
+{
+  "name": "duckduckgo-search-verification-cypress-by-qahiba",
+  "version": "1.0.0",
+  "description": "Cypress E2E tests for verifying DuckDuckGo search results, by QA Hiba",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.17.1",
+    "cypress-mochawesome-reporter": "^3.6.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}
